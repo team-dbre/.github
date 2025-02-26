@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/bamjun">@yoonhyeonjeong</a>
+        <a href="https://github.com/yoonhyeonjeong">@yoonhyeonjeong</a>
       </td>
       <td align="center">
         <a href="https://github.com/Ju-MINJAE">@Ju-MINJAE</a>
@@ -59,10 +59,10 @@
         <a href="https://github.com/jiseon-nnn">@jiseon-nnn</a>
       </td>
        <td align="center">
-        <a href="https://github.com/Jeedoli">@limsu1015</a>
+        <a href="https://github.com/limsu1015">@limsu1015</a>
       </td>
          <td align="center">
-        <a href="https://github.com/Kyubin1123">@mountain-kangkang</a>
+        <a href="https://github.com/mountain-kangkang">@mountain-kangkang</a>
       </td>
     </tr>
 
